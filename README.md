@@ -7,6 +7,6 @@ This repository contains RestSharp demo and tests for GitHub Issues API as follo
 
 In order to execute demo you have to set the values of these constants:
 
-	1. GitHubUsername - username
- 	2. RepoName - repository's name
+	1. GitHubUsername -  your username
+ 	2. RepoName - your repository's name
 	3. GitHubToken - your authentication's token
